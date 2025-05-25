@@ -54,3 +54,11 @@ npm start
 ### Create SuperUser
 
 python manage.py createsuperuser
+
+## To run run.sh once
+
+chmod +x run.sh
+
+## To run run.sh anytime
+
+./run.sh
