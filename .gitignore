@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+.env
+
+# Django
+db.sqlite3
+/staticfiles/
+media/
+
+# Node.js
+node_modules/
+build/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Virtual environments
+env/
+venv/
+ENV/
