@@ -54,4 +54,3 @@ npm start
 ### Create SuperUser
 
 python manage.py createsuperuser
-
