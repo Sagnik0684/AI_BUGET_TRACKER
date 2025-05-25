@@ -51,14 +51,13 @@ cd frontend
 npm install
 npm start
 
-### Create SuperUser
+## Running Frontend and Backend Simultaneously
 
-python manage.py createsuperuser
+To run both servers at once, use the included `run.sh` script (Mac/Linux):
 
-## To run run.sh once
+1. Make sure you have set execute permissions:
 
+```bash
 chmod +x run.sh
-
-## To run run.sh anytime
 
 ./run.sh
